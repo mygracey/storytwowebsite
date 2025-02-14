@@ -1,0 +1,31 @@
+*{
+  margin:0;
+  padding:0;
+}
+
+.app{
+  max-width:100%;
+  height:700px;
+  background:dodgerblue;
+  color:white;
+}
+
+.app h1{
+  text-align: center;
+  font-size:45px;
+  position:relative;
+  top:100px;
+}
+
+.app button{
+  position:relative;
+  top:140px;
+  left:500px;
+  width:300px;
+  height:45px;
+  background:white;
+  color:dodgerblue;
+  letter-spacing: 2px;
+  border:none;
+  cursor: pointer;
+}
